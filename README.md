@@ -1,2 +1,2 @@
-# Optimization-umg
-This is the repository for Optimization class at UMG 2023
+# Welcome to the classs of Optimization at  UMG
+**In this repository you can find the related homework and activities of the lecture**
